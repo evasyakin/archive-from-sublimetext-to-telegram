@@ -4,6 +4,8 @@
 ## Результат будет выглядеть так:
 `Правый клик на файле/директории в сайдбаре SublimeText` > `Open With` > `Telegram (send rar)`
 
+![Результат](https://repository-images.githubusercontent.com/596893155/3bf86e38-6c2f-46e6-ac9b-a586f90bccfa)
+
 ## Настройка:
 
 ### Подготовьте `archive-to-telegram.cmd`
