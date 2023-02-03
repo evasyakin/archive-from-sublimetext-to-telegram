@@ -1,0 +1,25 @@
+[
+    {"id": "side-bar-files-open-with",
+        "children":
+        [
+            // other Applications...
+
+            // Telegram (send rar)
+            {
+                "caption": "Telegram (send rar)",
+                "id": "side-bar-files-open-with-telegram-send-rar",
+
+                "command": "side_bar_files_open_with",
+                "args": {
+                    "paths": [],
+                    "application": "Путь к archive-to-telegram.cmd",
+                    "extensions":"",
+                    "args": ["$PATH", "$NAME"]
+                },
+                "open_automatically": false
+            },
+
+            {"caption":"-"}
+        ]
+    }
+]
