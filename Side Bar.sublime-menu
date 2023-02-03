@@ -19,6 +19,7 @@
                 "open_automatically": false
             },
 
+            // delimiter
             {"caption":"-"}
         ]
     }

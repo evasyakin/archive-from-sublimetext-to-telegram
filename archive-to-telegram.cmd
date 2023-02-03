@@ -2,7 +2,7 @@
 rem Отправка файла или директории в rar формате в Telegram.
 rem Copyright Egor Vasyakin <egor@evas-php.com>, MIT License
 
-set WINRAR_PATH= Путь к WinRAR\Rar.exe"
+set WINRAR_PATH="Путь к WinRAR\Rar.exe"
 set TELEGRAM_PATH="Путь к Telegram Desktop\Telegram.exe"
 
 set TMP_DIR=%~dp0

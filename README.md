@@ -6,7 +6,7 @@
 
 ## Настройка:
 
-### Подготовьте archive-to-telegram.cmd
+### Подготовьте `archive-to-telegram.cmd`
 
 1. Установите путь к WinRAR и Telegram Desktop в `archive-to-telegram.cmd`
 ```bash
@@ -14,7 +14,7 @@ set WINRAR_PATH="Путь к WinRAR\Rar.exe"
 set TELEGRAM_PATH="Путь к Telegram Desktop\Telegram.exe"
 ```
 
-### Добавьте пункт меню в `Side Bar Enhancements` 
+### Добавьте пункт меню в `Side Bar Enhancements` (плагин для SublimeText)
 
 1. Для этого перейдите в файл настройки раздела `Open With`: 
 `Правый клик на файле/директории в сайдбаре SublimeText` > `Open With` > `Edit Applications...`
